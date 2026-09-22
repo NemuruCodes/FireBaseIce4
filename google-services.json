@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795423641078",
+    "project_id": "fire-base-icetask4",
+    "storage_bucket": "fire-base-icetask4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795423641078:android:db00b9612bb3c565a0cbd7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseicetask4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuYuOawXknFR34g94H19uVp7nSs70LwiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
